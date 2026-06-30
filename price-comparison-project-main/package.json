@@ -1,0 +1,14 @@
+{
+    "name": "price-comparison-project",
+    "version": "1.0.0",
+    "description": "Price Comparison App",
+    "main": "index.js",
+    "scripts": {
+        "start": "node backend/app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^5.2.1"
+    }
+}
