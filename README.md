@@ -1,6 +1,6 @@
 # PricePulse — AI-Powered Multi-Store Price Comparison
 
-PricePulse fetches live product listings from multiple stores (Amazon, Flipkart, Shein via RapidAPI, with a DummyJSON fallback), groups matching products together, and scores each deal with a few lightweight AI-style heuristics — deal score, price-drop prediction, and price-drop alerts — so you can see at a glance which store has the best price.
+PricePulse fetches live product listings from multiple stores (Amazon, Flipkart, Shein via RapidAP), groups matching products together, and scores each deal with a few lightweight AI-style heuristics — deal score, price-drop prediction, and price-drop alerts — so you can see at a glance which store has the best price.
 
 ## Features
 
